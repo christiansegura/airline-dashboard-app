@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-attachment: fixed;
+}
+
+.card-footer {
+  button {
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  button:first-child {
+    border-radius: 0 0 0 12px;
+  }
+
+  button:last-child {
+    border-radius: 0 0 12px 0;
+  }
+}

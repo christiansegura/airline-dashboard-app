@@ -1,0 +1,31 @@
+{
+  "passengers": [
+    {
+      "fullname": "Doug Funny",
+      "id": "1",
+      "checkedIn": false,
+      "baggage": "checked-bags"
+    },
+    {
+      "id": "2",
+      "fullname": "Rose Simpson",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": "checked-bags"
+    },
+    {
+      "fullname": "Louise Belmont",
+      "id": "4",
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 1488412800000
+    },
+    {
+      "id": "5",
+      "fullname": "Tina",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": "checked-bags"
+    }
+  ]
+}

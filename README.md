@@ -1,6 +1,9 @@
-# ComponentArchitectureFeatureModules
+# Mock Airline App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.13.
+Angular custom feature module practice; To know and not to do is not to know.
+
+## JSON server
+run `npx json-server db.json` for local data
 
 ## Development server
 
@@ -25,3 +28,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.13.
